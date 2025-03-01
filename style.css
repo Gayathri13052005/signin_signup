@@ -22,9 +22,6 @@ label {
 }
 
 .clearfix {
-    /* display:flex;
-    justify-content:center;
-    text-align: center; */
     padding: 0px;
     color: white;
     font-size: larger;
@@ -52,23 +49,6 @@ formcontainer.a {
 }
 
 
-/* .cont h1 {
-    text-align: center;
-} */
-
-/* .cont {
-    width: 250px;
-    height: 350px;
-    padding: 50px;
-    text-align: left;
-    background-color: rgb(13, 1, 36);
-    box-shadow: 20px rgb(210, 43, 6);
-    margin-top: 130px;
-    color: white;
-    border-radius: 10px;
-    border: none;
-
-} */
 
 .formcontainer h1 {
     text-align: center;
