@@ -1,0 +1,87 @@
+form {
+    text-align: left;
+    border-radius: 10px;
+}
+
+.formcontainer {
+    width: 300px;
+    padding: 20px;
+    text-align: left;
+    background-color: rgb(13, 1, 36);
+    box-shadow: 20px rgb(210, 43, 6);
+    height: 450px;
+    margin-top: 110px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+
+}
+
+label {
+    width: 100%;
+}
+
+.clearfix {
+    /* display:flex;
+    justify-content:center;
+    text-align: center; */
+    padding: 0px;
+    color: white;
+    font-size: larger;
+    text-align: center;
+
+
+}
+
+.formcontainer a {
+    color: blue;
+    text-align: left;
+}
+
+.cancelbtn:hover {
+    background-color: red;
+}
+
+.signupbtn:hover {
+    background-color: green;
+}
+
+formcontainer.a {
+    color: blue;
+    text-decoration: dashed;
+}
+
+
+/* .cont h1 {
+    text-align: center;
+} */
+
+/* .cont {
+    width: 250px;
+    height: 350px;
+    padding: 50px;
+    text-align: left;
+    background-color: rgb(13, 1, 36);
+    box-shadow: 20px rgb(210, 43, 6);
+    margin-top: 130px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+
+} */
+
+.formcontainer h1 {
+    text-align: center;
+}
+
+.formcontainer p {
+    text-align: center;
+}
+
+body {
+    background-image: url(pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    background-size: cover;
+}
+.hidden {
+    display: none;
+}
